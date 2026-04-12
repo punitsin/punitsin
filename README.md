@@ -8,7 +8,7 @@
 - 💼 7+ Years Experience in Application Support
 - 🏦 Currently working at Axis Bank
 - 🔧 Expert in Production Support, Incident Management
-- ☁️ Learning DevOps & Cloud
+- ☁️ DevOps/MLOps/DevSecOps engineer 
 - 📈 Focused on Automation & System Reliability
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn (Add your link here)
+- 💼 LinkedIn www.linkedin.com/in/punitsingh0608
 
 ---
 
