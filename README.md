@@ -1,5 +1,6 @@
+![Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm Punit Singh ⭐</h1>
-![Banner](./Professional%20GitHub%20banner%20for%20Punit%20Singh.png)
+
 <h3 align="center">Senior Application Support Engineer | DevOps | Cloud | Automation</h3>
 
 ---
