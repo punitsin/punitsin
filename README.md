@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm Punit Singh ⭐</h1>
 
-<h3 align="center">Senior Application Support Engineer | DevOps | Cloud | Automation</h3>
+<h3 align="center">Senior Software Engineer | DevOps | Cloud | Automation</h3>
 
 ---
 
